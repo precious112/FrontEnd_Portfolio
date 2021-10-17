@@ -192,6 +192,7 @@ margin-top: 10px;
 }
 
 
+
   
   @media (max-width: 800px) {
     /* CSS that should be displayed if width is equal to or less than 800px goes here */
@@ -285,6 +286,11 @@ box-shadow:  10px 10px 20px #c9c9c9,
   display: inline-block;
   margin-top: 10px;
   margin-left: 20px;
+}
+
+.col{
+  padding-left: 20px;
+  padding-right: 20px;
 }
       
   }
