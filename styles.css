@@ -271,5 +271,19 @@ margin-top: 10px;
     text-transform: none;
     margin-top: 40px;
   }
+
+  .card{
+    width: 200px;
+    height: 300px;
+    border-radius: 41px;
+  background: #ededed;
+  border-radius: 41px;
+background: #ededed;
+box-shadow:  10px 10px 20px #c9c9c9,
+           -10px -10px 20px #ffffff;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+}
       
   }
